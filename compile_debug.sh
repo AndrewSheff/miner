@@ -1,0 +1,1 @@
+gcc collections.c building.c prop.c environments.c main.c -o main -lncurses -g
